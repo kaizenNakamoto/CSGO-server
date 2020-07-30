@@ -1,0 +1,18 @@
+
+bot_kick
+mp_autoteambalance 0
+mp_buy_anywhere 1
+mp_maxmoney 65535
+mp_startmoney 65535
+mp_afterroundmoney 65535
+mp_autokick 0
+mp_friendlyfire 0
+mp_freezetime 2
+mp_free_armor 2
+mp_buytime 9999
+sv_alltalk 1
+sv_talk_enemy_dead 1
+sv_talk_enemy_living 1
+mp_halftime_duration 5
+
+say" ----------------------------------------------------------------------- WELCOME  TO  KX4 Server ENJOY -------------------------";             

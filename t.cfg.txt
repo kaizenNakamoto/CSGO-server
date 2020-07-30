@@ -1,0 +1,4 @@
+sv_full_alltalk 1
+sv_alltalk 1
+sv_talk_enemy_dead 1
+sv_talk_enemy_living 1
